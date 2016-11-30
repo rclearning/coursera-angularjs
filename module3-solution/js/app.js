@@ -18,6 +18,8 @@
 		return ddo;
 	}
 
+	
+
 	NarrowItDownController.$inject = ['MenuSearchService'];
 	function NarrowItDownController(menuSearchService) {
 		var narrowDown = this;
